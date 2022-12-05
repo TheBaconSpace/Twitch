@@ -1,5 +1,4 @@
 -----------Social Link's--------------------------
-##Melee: Bacon_Space
 ##Twitch: https://twitch.tv/Bacon_Space
 ##Instagram: https://Instagram.com/Bacon_Space
 ##YouTube: https://www.youtube.com/c/BaconSpaces
