@@ -8,6 +8,6 @@
 [![Discord](https://img.shields.io/discord/95608213499555840?label=Join%20Our%20Discord%20Server&style=for-the-badge)](https://discord.me/BaconSpace)
 
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCbwlLVr4jf1cR0VBrddPUoQ?label=Youtube%20Channel%20%20SubScribers&style=for-the-badge)7
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCbwlLVr4jf1cR0VBrddPUoQ?label=Youtube%20Channel%20%20SubScribers&style=for-the-badge)
 
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/Bacon_Space?style=for-the-badge)](https://reddit.com/r/Bacon_Space)
