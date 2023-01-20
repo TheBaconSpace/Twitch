@@ -13,3 +13,5 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/Bacon_Space?style=for-the-badge)](https://reddit.com/r/Bacon_Space)
 
 [![Twitch Status](https://img.shields.io/twitch/status/Bacon_Space?style=for-the-badge)](https://twitch.tv/Bacon_Space)
+
+<img src="https://github-readme-fortnite.vercel.app/?username=Bacon_Space" alt="My Fortnite Stats" align="left" />
