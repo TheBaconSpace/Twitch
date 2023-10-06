@@ -5,7 +5,7 @@ const bearerToken = '62ly1aqjnymr30sn6yga5xpxuo4yi9';
 // Function to fetch Twitch stream data
 async function fetchTwitchData() {
     try {
-        const response = await fetch('https://api.twitch.tv/helix/streams?user_login=YOUR_USERNAME', {
+        const response = await fetch('https://api.twitch.tv/helix/streams?user_login=Monstercat', {
             headers: {
                 'Client-ID': clientId,
                 'Authorization': `Bearer ${bearerToken}`,
