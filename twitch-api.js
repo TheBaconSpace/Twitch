@@ -2,7 +2,7 @@
 function loadEmotes() {
     // Replace 'YOUR_ENCODED_USERNAME' with the encoded username
     const encodedUsername = encodeURIComponent('Afro');
-    const api_url = `https://emotes.adamcy.pl/v1/channel/${encodedUsername}/emotes/all`;
+    const api_url = `https://emotes.adamcy.pl/v1/channel/Afro/emotes/all`;
 
     fetch(api_url)
         .then(response => response.json())
@@ -39,7 +39,7 @@ function embedTwitchChat() {
 
     // Embed Twitch Chat
     const twitchChatEmbed = document.createElement('iframe');
-    twitchChatEmbed.src = `https://www.twitch.tv/embed/${channelName}/chat`;
+    twitchChatEmbed.src = `https://www.twitch.tv/embed/Afro/chat`;
     twitchChatEmbed.width = '100%';
     twitchChatEmbed.height = '480'; // Adjust the height as needed
     twitchChatEmbed.frameborder = '0';
